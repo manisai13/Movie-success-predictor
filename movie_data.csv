@@ -1,0 +1,11 @@
+Budget,Duration,Genre,Director_Reputation,Lead_Actor_Popularity,Social_Buzz,Trailer_Views,Production_Studio,Success
+100,120,Action,8,9,80,5000000,Big,1
+50,90,Comedy,6,7,60,2000000,Small,0
+200,150,Sci-Fi,9,10,95,8000000,Big,1
+20,100,Horror,5,5,40,1000000,Indie,0
+150,130,Drama,7,8,75,6000000,Big,1
+80,110,Comedy,6,7,65,2500000,Small,0
+120,140,Action,8,9,85,7000000,Big,1
+30,95,Horror,4,4,50,1200000,Indie,0
+60,85,Drama,7,6,55,1800000,Small,0
+170,145,Sci-Fi,9,10,90,9000000,Big,1
